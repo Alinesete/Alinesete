@@ -11,4 +11,4 @@
 
 - ⚡ Fun fact **Vikings were scared of math**
 
-- 👋 Say hi to me in my **<a href='https://br.linkedin.com/in/alineklauck'>linkedIn!</a>**
+- 👋 Say hi to me in my **<a href='https://br.linkedin.com/in/alineklauck'>LinkedIn!</a>**
