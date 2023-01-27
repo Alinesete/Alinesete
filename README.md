@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Aline Klauck! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</h1>
-<h3 align="center">An aspirant mobile developer from Brasil</h3>
+<h3 align="center">An aspirant developer from Brasil</h3>
 
 <br>
 
