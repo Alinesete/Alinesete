@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript :)**
 
-- 💬 Ask me about **Java, Python, WEB**
+- 💬 Ask me about **Java, Javascript**
 
 - 📫 How to reach me **klauckac@gmail.com**
 
