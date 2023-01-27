@@ -9,6 +9,6 @@
 
 - 📫 How to reach me **klauckac@gmail.com**
 
-- ⚡ Fun fact **Vikings were scared of math**
+- ⚡ Fun fact **I use silly names for variables when learning so I can't be lazy and copy the teacher's code**
 
 - 👋 Say hi to me in my **<a href='https://br.linkedin.com/in/alineklauck'>LinkedIn!</a>**
