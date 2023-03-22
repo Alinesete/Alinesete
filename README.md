@@ -3,12 +3,12 @@
 
 <br>
 
-- 🌱 I’m currently learning **Javascript :)**
+- 🌱 I’m currently learning **Python :)**
 
 - 💬 Ask me about **Java, Javascript**
 
 - 📫 How to reach me **klauckac@gmail.com**
 
-- ⚡ Fun fact **I use silly names for variables when learning so I won't just copy paste the teacher's code**
+- ⚡ Fun fact **I use silly names for variables when learning so I can't just copy paste the teacher's code**
 
 - 👋 Say hi to me in my **<a href='https://br.linkedin.com/in/alineklauck'>LinkedIn!</a>**
