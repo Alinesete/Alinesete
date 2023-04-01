@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **Python :)**
+- 🌱 I’m currently learning **React :)**
 
 - 💬 Ask me about **Java, Javascript**
 
