@@ -24,7 +24,6 @@
 [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,react,figma,mysql,firebase,git,github,vscode,ps&perline=14)](https://skillicons.dev)
 
 <img src="./icons/dio.png" title="Digital Innovation One">
-<img src="./icons/fcc.png" title="freeCodeCamp">
 <img src="./icons/danki.png" title="Danki Code">
 <img src="./icons/duo.png" title="Duolingo">
 <br>
