@@ -1,5 +1,10 @@
 <h1 align="center">Hi, I'm Aline Klauck! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</h1>
-<h3 align="center">An aspirant web developer from Brasil</h3>
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4000&pause=200&color=C529F7&center=true&vCenter=true&width=435&lines=Web+developer+fullstack...;Python+automation...;Pentest+enthusiast...;You+know+what%2C+games+are+cool...;Lifelong+learning+is+the+secret...)](https://git.io/typing-svg)
+  
+</div>
 
 <br>
 
