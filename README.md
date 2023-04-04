@@ -21,9 +21,9 @@
 
 - ✉ How to reach me: klauckac@gmail.com
 
-- 👋 Say hi to me in my **<a href="https://br.linkedin.com/in/alineklauck">LinkedIn!</a>**
+- 👋 Say hi to me in my **<a href="https://br.linkedin.com/in/alineklauck" target="_blank">LinkedIn!</a>**
 
-- 🤯 Wanna see my cv / resume??! Here, **<a href="https://www.canva.com/design/DAFfKSe0m5Q/aEqyFjRKtF_XbXiYy7wHFw/view?utm_content=DAFfKSe0m5Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">take a look</a>** !!
+- 🤯 Wanna see my cv / resume??! Here, **<a href="https://www.canva.com/design/DAFfKSe0m5Q/aEqyFjRKtF_XbXiYy7wHFw/view?utm_content=DAFfKSe0m5Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">take a look</a>** !!
 
 <br>
 
@@ -33,9 +33,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,react,figma,mysql,firebase,git,github,vscode,ps&perline=14)](https://github.com/alinesete)
 
-<a href="https://web.dio.me/users/aline_cantuaria_klauck"><img src="./icons/dio.png" title="Digital Innovation One"></a>
-<a href="https://cursos.dankicode.com/"><img src="./icons/danki.png" title="Danki Code"></a>
-<a href="https://www.duolingo.com/profile/Alinesete"><img src="./icons/duo.png" title="Duolingo"></a>
+<a href="https://web.dio.me/users/aline_cantuaria_klauck"><img src="./icons/dio.png" title="Digital Innovation One" target="_blank"></a>
+<a href="https://cursos.dankicode.com/"><img src="./icons/danki.png" title="Danki Code" target="_blank"></a>
+<a href="https://www.duolingo.com/profile/Alinesete"><img src="./icons/duo.png" title="Duolingo" target="_blank"></a>
 <br>
 <br>
 
