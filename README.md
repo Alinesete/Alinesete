@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React :)**
 
-- 📫 How to reach me **klauckac@gmail.com**
-
 - ⚡ Fun fact **I use silly names for variables when learning so I can't just copy paste the teacher's code**
+
+- 📫 How to reach me **klauckac@gmail.com**
 
 - 👋 Say hi to me in my **<a href='https://br.linkedin.com/in/alineklauck'>LinkedIn!</a>**
 <br>
