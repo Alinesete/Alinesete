@@ -9,7 +9,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4000&pause=200&color=800080&center=true&vCenter=true&width=435&lines=Web+developer+fullstack...;Python+automation...;Pentest+enthusiast...;You+know+what%2C+games+are+cool...;Lifelong+learning+is+the+secret...)](https://github.com/alinesete)
+<a href="https://github.com/alinesete"> <img src="./repos/typing.svg"> </a>
   
 </div>
 
@@ -47,10 +47,10 @@
 
 
 <a href="https://github.com/Alinesete/tiktok-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alinesete&repo=tiktok-clone&title_color=5D005DFF&icon_color=800080" />
+  <img align="center" src="./repos/tiktok-clone.svg" />
 </a>
 <a href="https://github.com/Alinesete/smosh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alinesete&repo=smosh&title_color=5D005DFF&icon_color=800080" />
+  <img align="center" src="./repos/smosh.svg" />
 </a>
 <br>
 <br>
