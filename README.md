@@ -15,7 +15,7 @@
 
 <br>
 
-- 🎓 ***Complete*** System and Analysis Development **|** ***Coursing*** Software Engineering
+- 🎓 ***Complete*** Technology in System and Analysis Development **|** ***Coursing*** Software Engineering
 
 - 🌸 Fun fact **I use silly names for variables when learning so I can't just copy paste the teacher's code**
 
