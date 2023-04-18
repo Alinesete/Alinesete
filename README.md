@@ -32,10 +32,6 @@
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,react,figma,mysql,firebase,git,github,vscode,ps&perline=14)](https://github.com/alinesete)
-
-<a href="https://web.dio.me/users/alinesete"><img src="./icons/dio.png" title="Digital Innovation One" target="_blank"></a>
-<a href="https://cursos.dankicode.com/"><img src="./icons/danki.png" title="Danki Code" target="_blank"></a>
-<a href="https://www.duolingo.com/profile/Alinesete"><img src="./icons/duo.png" title="Duolingo" target="_blank"></a>
 <br>
 <br>
 
