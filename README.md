@@ -45,8 +45,8 @@
 <a href="https://github.com/Alinesete/tiktok-clone">
   <img align="center" src="./repos/tiktok-clone.svg" />
 </a>
-<a href="https://github.com/Alinesete/smosh">
-  <img align="center" src="./repos/smosh.svg" />
+<a href="https://github.com/Alinesete/runrun-hub">
+  <img align="center" src="./repos/runrun-hub.svg" />
 </a>
 <br>
 <br>
