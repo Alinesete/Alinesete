@@ -17,7 +17,7 @@
 
 - 🎓 ***Complete*** Technology in System and Analysis Development **|** ***Coursing*** Software Engineering
 
-- 🌸 Fun fact **I use silly names for variables when learning so I can't just copy paste the teacher's code**
+- 🌸 Fun fact **I use silly names for variables in classes so I can't just copy paste the teacher's code**
 
 - ✉ How to reach me: klauckac@gmail.com
 
@@ -28,14 +28,14 @@
 <br>
 
 <div align="center">
-<h3>─── ❖ ── Wow! Look at those stats! ── ❖ ───</h3>
+<h3>─── ❖ ── Wow! Look at the stats! ── ❖ ───</h3>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,react,figma,mysql,firebase,git,github,vscode,ps&perline=14)](https://github.com/alinesete)
+[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,react,figma,mysql,firebase&perline=14)](https://github.com/alinesete)
 <br>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Alinesete&theme=default&ring=purple&fire=purple&currStreakLabel=purple)](https://github.com/alinesete)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinesete&show_icons=true&theme=dracula)
 
 <br>
 
