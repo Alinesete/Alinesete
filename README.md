@@ -42,7 +42,7 @@
 <h3>─── ❖ ── My faves ── ❖ ───</h3>
 
 
-<a href="https://github.com/Alinesete/tiktok-clone">
+<a href="https://repository-of-things.web.app/">
   <img align="center" src="./repos/tiktok-clone.svg" />
 </a>
 <a href="https://github.com/Alinesete/runrun-hub">
