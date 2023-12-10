@@ -28,14 +28,12 @@
 <br>
 
 <div align="center">
-<h3>─── ❖ ── Wow! Look at the stats! ── ❖ ───</h3>
+<h3>─── ❖ ── Wow! Look at that! ── ❖ ───</h3>
+<br>
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,react,figma,mysql,firebase&perline=14)](https://github.com/alinesete)
 <br>
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alinesete&show_icons=true&theme=dracula)
 
 <br>
 
