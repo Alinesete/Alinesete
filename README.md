@@ -23,8 +23,6 @@
 
 - 👋 Say hi to me in my **<a href="https://br.linkedin.com/in/alineklauck" target="_blank">LinkedIn!</a>**
 
-- 🤯 Wanna see my cv / resume??! Here, **<a href="https://www.canva.com/design/DAFfKSe0m5Q/aEqyFjRKtF_XbXiYy7wHFw/view?utm_content=DAFfKSe0m5Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">take a look</a>** !!
-
 <br>
 
 <div align="center">
