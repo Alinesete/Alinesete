@@ -35,19 +35,8 @@
 
 <br>
 
-<h3>─── ❖ ── My faves ── ❖ ───</h3>
-
-
-<a href="https://repository-of-things.web.app/">
-  <img align="center" src="./repos/tiktok-clone.svg" />
-</a>
-<a href="https://github.com/Alinesete/runrun-hub">
-  <img align="center" src="./repos/runrun-hub.svg" />
-</a>
+<h3> ❖ ─ Thank you for reading! ─ ❖ </h3>
 <br>
-<br>
-<br>
-<h3> Thank you for reading! </h3>
 
 <a href="https://github.com/alinesete"><img src="https://raw.githubusercontent.com/danielbped/danielbped/573d3c6b47ca73fc60eea5dd0f60cd8b29006fc0/github-contribution-grid-snake.svg" /></a>
 </div>
