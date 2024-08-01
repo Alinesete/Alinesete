@@ -9,7 +9,7 @@
 
 <div align="center">
   
-<a href="https://github.com/alinesete"> <img src="./repos/typing.svg"> </a>
+<!--<a href="https://github.com/alinesete"> <img src="./repos/typing.svg"> </a>-->
   
 </div>
 
