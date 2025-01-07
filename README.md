@@ -17,7 +17,7 @@
 
 - 🎓 ***Complete*** Technology in System and Analysis Development **|** ***Coursing*** Software Engineering
 
-- 🌸 Fun fact **I use silly names for variables in classes so I can't just copy paste the teacher's code**
+- 🌸 Fun fact **Vikings thought math was witchery. Not far from the truth**
 
 - ✉ How to reach me: klauckac@gmail.com
 
@@ -30,7 +30,7 @@
 <br>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,react,figma,mysql,firebase&perline=14)](https://github.com/alinesete)
+[![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,figma,mysql,firebase&perline=14)](https://github.com/alinesete)
 <br>
 
 <br>
